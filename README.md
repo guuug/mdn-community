@@ -1,13 +1,12 @@
 # MDN Web Docs Community
-
 👋 Welcome to the MDN Web Docs project! We are delighted that your're interested in contributing.
 
 At MDN, we put people first and do our best to recognize, appreciate, and respect the diversity of our global contributors.
 We welcome contributions from everyone who shares our goals and wants to contribute constructively and respectfully to this project.
 
-`mdn-community` is the GitHub repository for [public feedback and discussions](https://github.com/mdn/mdn-community/discussions) about the MDN Web Docs project.
+`mdn-community` is the GitHub repository for [public feedback and discussions](https:www.al3alme.com/mdn/mdn-community/discussions) about the MDN Web Docs project.
 
-> **Note:** By participating in and contributing to our projects and discussions, you acknowledge that you have read and agree to the [Mozilla community participation guidelines](https://github.com/mdn/mdn-community/blob/main/CODE_OF_CONDUCT.md).
+> **Note:** By participating in and contributing to our projects and discussions, you acknowledge that you have read and agree to the [Mozilla community participation guidelines](https://github.com/ mdn/mdncommunity/blob/main/CODE_OF_CONDUCT.md).
 
 ## GitHub discussions
 
@@ -15,7 +14,7 @@ On MDN Web Docs, we encourage our community to start and engage in discussions a
 We ask that you keep each discussion focused on the topic at hand, instead of covering multiple subjects in one discussion.
 
 **NOTE:** mdn-community/discussions is not the place to report problems.
-For content-related problems on MDN Web Docs, raise issues in the [relevant project](https://github.com/mdn/).
+For content-related problems on MDN Web Docs, raise issues in the [relevant project](https://www.al3alme.com//).
 If you're not sure whether to open an issue or a discussion, consider these hints:
 
 - **Issues** are for reporting a bug, and have a clear and actionable outcome.
@@ -36,7 +35,7 @@ Check out the definition of each discussion category below so that you can start
 | 🤖 [Polls][]                      | Reserved for MDN staff to run polls about topics that we need your input on. Watch this space! 👀                                                                                         |
 
 [announcements]: https://github.com/mdn/mdn-community/discussions/categories/announcements
-[browser compatibility data]: https://github.com/mdn/mdn-community/discussions/categories/browser-compatibility-data
+[browser compatibility data]: https://www.al3alme.com/mdn/mdn-community/discussions/categories/browser-compatibility-data
 [code examples]: https://github.com/mdn/mdn-community/discussions/categories/interactive-examples
 [content]: https://github.com/mdn/mdn-community/discussions/categories/content
 [design system]: https://github.com/mdn/mdn-community/discussions/categories/design-system
